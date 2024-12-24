@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|c:\\users\\anasa\\source\\repos\\crudwinformsmvp\\crudwinformsmvp\\presenters\\petpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|solutionrelative:crudwinformsmvp\\presenters\\petpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\crudwinformsmvp\\view\\petview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|solutionrelative:crudwinformsmvp\\view\\petview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\crudwinformsmvp\\view\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|solutionrelative:crudwinformsmvp\\view\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\crudwinformsmvp\\repositories\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|solutionrelative:crudwinformsmvp\\repositories\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\crudwinformsmvp\\model\\ipetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|solutionrelative:crudwinformsmvp\\model\\ipetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\crudwinformsmvp\\view\\ipetview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|solutionrelative:crudwinformsmvp\\view\\ipetview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\crudwinformsmvp\\view\\petview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|solutionrelative:crudwinformsmvp\\view\\petview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\crudwinformsmvp\\view\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|solutionrelative:crudwinformsmvp\\view\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\crudwinformsmvp\\model\\petmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|solutionrelative:crudwinformsmvp\\model\\petmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\crudwinformsmvp\\view\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|solutionrelative:crudwinformsmvp\\view\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\crudwinformsmvp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|solutionrelative:crudwinformsmvp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\crudwinformsmvp\\presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|solutionrelative:crudwinformsmvp\\presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\crudwinformsmvp\\presenters\\common\\modeldatavalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC1829A-018E-4426-B068-573F4101937F}|CrudWinFormsMVP\\CrudWinFormsMVP.csproj|solutionrelative:crudwinformsmvp\\presenters\\common\\modeldatavalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 400,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\Presenters\\PetPresenter.cs",
+              "RelativeDocumentMoniker": "CrudWinFormsMVP\\Presenters\\PetPresenter.cs",
+              "ToolTip": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\Presenters\\PetPresenter.cs",
+              "RelativeToolTip": "CrudWinFormsMVP\\Presenters\\PetPresenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:50:06.444Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModelDataValidation.cs",
+              "DocumentMoniker": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\Presenters\\Common\\ModelDataValidation.cs",
+              "RelativeDocumentMoniker": "CrudWinFormsMVP\\Presenters\\Common\\ModelDataValidation.cs",
+              "ToolTip": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\Presenters\\Common\\ModelDataValidation.cs",
+              "RelativeToolTip": "CrudWinFormsMVP\\Presenters\\Common\\ModelDataValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:59:57.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\Presenters\\MainPresenter.cs",
+              "RelativeDocumentMoniker": "CrudWinFormsMVP\\Presenters\\MainPresenter.cs",
+              "ToolTip": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\Presenters\\MainPresenter.cs",
+              "RelativeToolTip": "CrudWinFormsMVP\\Presenters\\MainPresenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:09:02.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PetView.cs",
+              "DocumentMoniker": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\View\\PetView.cs",
+              "RelativeDocumentMoniker": "CrudWinFormsMVP\\View\\PetView.cs",
+              "ToolTip": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\View\\PetView.cs",
+              "RelativeToolTip": "CrudWinFormsMVP\\View\\PetView.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:20:44.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainView.cs",
+              "DocumentMoniker": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\View\\MainView.cs",
+              "RelativeDocumentMoniker": "CrudWinFormsMVP\\View\\MainView.cs",
+              "ToolTip": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\View\\MainView.cs",
+              "RelativeToolTip": "CrudWinFormsMVP\\View\\MainView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:51:57.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\Program.cs",
+              "RelativeDocumentMoniker": "CrudWinFormsMVP\\Program.cs",
+              "ToolTip": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\Program.cs",
+              "RelativeToolTip": "CrudWinFormsMVP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:07:50.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMainView.cs",
+              "DocumentMoniker": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\View\\IMainView.cs",
+              "RelativeDocumentMoniker": "CrudWinFormsMVP\\View\\IMainView.cs",
+              "ToolTip": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\View\\IMainView.cs",
+              "RelativeToolTip": "CrudWinFormsMVP\\View\\IMainView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:46:17.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PetModel.cs",
+              "DocumentMoniker": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\Model\\PetModel.cs",
+              "RelativeDocumentMoniker": "CrudWinFormsMVP\\Model\\PetModel.cs",
+              "ToolTip": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\Model\\PetModel.cs",
+              "RelativeToolTip": "CrudWinFormsMVP\\Model\\PetModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T16:17:06.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\View\\MainView.cs",
+              "RelativeDocumentMoniker": "CrudWinFormsMVP\\View\\MainView.cs",
+              "ToolTip": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\View\\MainView.cs [Design]",
+              "RelativeToolTip": "CrudWinFormsMVP\\View\\MainView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:48:31.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\Repositories\\PetRepository.cs",
+              "RelativeDocumentMoniker": "CrudWinFormsMVP\\Repositories\\PetRepository.cs",
+              "ToolTip": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\Repositories\\PetRepository.cs",
+              "RelativeToolTip": "CrudWinFormsMVP\\Repositories\\PetRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:02:23.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PetView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\View\\PetView.cs",
+              "RelativeDocumentMoniker": "CrudWinFormsMVP\\View\\PetView.cs",
+              "ToolTip": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\View\\PetView.cs [Design]",
+              "RelativeToolTip": "CrudWinFormsMVP\\View\\PetView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T17:38:54.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPetView.cs",
+              "DocumentMoniker": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\View\\IPetView.cs",
+              "RelativeDocumentMoniker": "CrudWinFormsMVP\\View\\IPetView.cs",
+              "ToolTip": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\View\\IPetView.cs",
+              "RelativeToolTip": "CrudWinFormsMVP\\View\\IPetView.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T16:49:26.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\Model\\IPetRepository.cs",
+              "RelativeDocumentMoniker": "CrudWinFormsMVP\\Model\\IPetRepository.cs",
+              "ToolTip": "C:\\Users\\anasa\\source\\repos\\CrudWinFormsMVP\\CrudWinFormsMVP\\Model\\IPetRepository.cs",
+              "RelativeToolTip": "CrudWinFormsMVP\\Model\\IPetRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T16:44:04.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
